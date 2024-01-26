@@ -1,6 +1,6 @@
 
 
-## Assignment 3.1 Solutions - 2024 Programming in Psychological Science (PIPS)
+## Assignment 3.2 Solutions - 2024 Programming in Psychological Science (PIPS)
 #
 # Record of Revisions
 #
